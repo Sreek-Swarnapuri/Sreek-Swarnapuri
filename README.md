@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Sreekar Swarnapuri, a software engineer with much to share on what I learn!!
+
 <!--
 **Sreek-Swarnapuri/Sreek-Swarnapuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
